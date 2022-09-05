@@ -22,6 +22,6 @@ int mate(char * B, char * A){
 
 int main(){
     int number = mate("ababcabcacbab","abcac");
-    printf("%d \n",number);
+    printf("%d \n  ",number);
     return 0;
 }
